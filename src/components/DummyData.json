@@ -1,0 +1,42 @@
+[
+    {
+        "author": "Chinua Achebe",
+        "country": "Nigeria",
+        "imageLink": "images/things-fall-apart.jpg",
+        "language": "English",
+        "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
+        "pages": 209,
+        "title": "Things Fall Apart",
+        "year": 1958
+      },
+      {
+        "author": "Jane Austen",
+        "country": "United Kingdom",
+        "imageLink": "images/pride-and-prejudice.jpg",
+        "language": "English",
+        "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice\n",
+        "pages": 226,
+        "title": "Pride and Prejudice",
+        "year": 1813
+      },
+      {
+        "author": "Honor\u00e9 de Balzac",
+        "country": "France",
+        "imageLink": "images/le-pere-goriot.jpg",
+        "language": "French",
+        "link": "https://en.wikipedia.org/wiki/Le_P%C3%A8re_Goriot\n",
+        "pages": 443,
+        "title": "Le P\u00e8re Goriot",
+        "year": 1835
+      },
+      {
+        "author": "Samuel Beckett",
+        "country": "Republic of Ireland",
+        "imageLink": "images/molloy-malone-dies-the-unnamable.jpg",
+        "language": "English",
+        "link": "https://en.wikipedia.org/wiki/Molloy_(novel)\n",
+        "pages": 256,
+        "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+        "year": 1952
+      }
+]
